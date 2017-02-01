@@ -49,6 +49,8 @@ VLC has no problem.
 It seems that ffmpeg or libvorbis have a problem,
 or my parameters `-codec:a libvorbis -qscale:a 6 -map_metadata 0` are somehow bad.
 
+I posted a [question on unix.SE](http://unix.stackexchange.com/q/341857/17409).
+
 ### Parameters
 
 ~~~
