@@ -51,7 +51,7 @@ or my parameters `-codec:a libvorbis -qscale:a 6 -map_metadata 0` are somehow ba
 
 I posted a [question on unix.SE](http://unix.stackexchange.com/q/341857/17409).
 
-### Parameters
+### Tool Versions
 
 ~~~
 easytag      2.4.2
